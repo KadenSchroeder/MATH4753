@@ -1,0 +1,10 @@
+Package: MATH4753KSCHFALL23
+Type: Package
+Title: MATH 4753 Funcitons
+Version: 0.1.0
+Author: Kaden Schroeder
+Maintainer: Kaden Schroeder <Kaden.B.Schroeder-1@ou.edu>
+Description: Lab functions we use in MATH4753.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
